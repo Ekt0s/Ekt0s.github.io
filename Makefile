@@ -1,7 +1,10 @@
 all: tweets dependencies blog
 
+setup:
+	bundle exec rake setup_github_pages\[git@github.com:Ekt0s/Ekt0s.github.io.git\]
+
 unpub:
-	subl ./
+	subl .
 	fgrep -rIi "published: false" ./source/_posts | awk -F: '{print "subl " $$1}' |bash
 
 tweets:
@@ -32,5 +35,5 @@ blog:
 	git add .; \
 	git commit -am "blog update $$(date +%Y-%m-%d)"; \
 	git push origin master
-
+	
 .PHONY: blog%
