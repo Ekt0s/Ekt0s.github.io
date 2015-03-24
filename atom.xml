@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://blog.louis-gabriel.com//atom.xml" rel="self"/>
   <link href="http://blog.louis-gabriel.com//"/>
-  <updated>2015-03-24T10:03:32+01:00</updated>
+  <updated>2015-03-24T18:25:59+01:00</updated>
   <id>http://blog.louis-gabriel.com//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Beautiful Test 42]]></title>
+    <link href="http://blog.louis-gabriel.com//blog/2015/03/24/my-beautiful-test-42/"/>
+    <updated>2015-03-24T10:10:54+01:00</updated>
+    <id>http://blog.louis-gabriel.com//blog/2015/03/24/my-beautiful-test-42</id>
+    <content type="html"><![CDATA[<h2>42</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Deploying Octopress to Github Pages]]></title>
