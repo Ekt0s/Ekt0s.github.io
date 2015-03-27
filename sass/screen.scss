@@ -1,12 +1,6 @@
-@import "compass";
-
 @import "base";
-@import "parts";
-@import "plugins";
 
-@import "custom/colors";
-@import "yinyang";
+#site-head {
+  background-image: url(/images/cover.jpg);
+}
 
-@import "custom/fonts";
-@import "custom/layout";
-@import "custom/styles";

@@ -1,0 +1,6 @@
+[submodule ".themes/hpstr"]
+	path = .themes/hpstr
+	url = https://github.com/jez/hpstr-theme.git
+[submodule ".themes/casper"]
+	path = .themes/casper
+	url = https://github.com/jkrmr/casper.git
