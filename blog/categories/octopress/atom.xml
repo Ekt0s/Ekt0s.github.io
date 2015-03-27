@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <title><![CDATA[Category: octopress | My Octopress Blog]]></title>
   <link href="http://blog.louis-gabriel.com//blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://blog.louis-gabriel.com//"/>
-  <updated>2015-03-25T13:09:38+01:00</updated>
+  <updated>2015-03-26T16:14:11+01:00</updated>
   <id>http://blog.louis-gabriel.com//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test Deploying Octopress to Github Pages]]></title>
+    <title type="html"><![CDATA[Test Deploying Octopress to github pages]]></title>
     <link href="http://blog.louis-gabriel.com//blog/2015/03/23/test-deploying-octopress-to-github-pages/"/>
     <updated>2015-03-23T21:33:31+01:00</updated>
     <id>http://blog.louis-gabriel.com//blog/2015/03/23/test-deploying-octopress-to-github-pages</id>
