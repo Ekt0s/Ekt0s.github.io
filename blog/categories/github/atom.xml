@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
-  <link href="http://Ekt0s.github.io//blog/categories/octopress/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Github | My Octopress Blog]]></title>
+  <link href="http://Ekt0s.github.io//blog/categories/github/atom.xml" rel="self"/>
   <link href="http://Ekt0s.github.io//"/>
-  <updated>2015-05-19T19:47:47+02:00</updated>
+  <updated>2015-05-19T19:51:40+02:00</updated>
   <id>http://Ekt0s.github.io//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Deploying Octopress to Github Pages]]></title>
-    <link href="http://Ekt0s.github.io//blog/2015/03/23/test-deploying-octopress-to-github-pages/"/>
+    <link href="http://Ekt0s.github.io//2015/03/23/test-deploying-octopress-to-github-pages/"/>
     <updated>2015-03-23T21:33:31+01:00</updated>
-    <id>http://Ekt0s.github.io//blog/2015/03/23/test-deploying-octopress-to-github-pages</id>
+    <id>http://Ekt0s.github.io//2015/03/23/test-deploying-octopress-to-github-pages</id>
     <content type="html"><![CDATA[<h2>Yahhooooooooo2</h2>
 ]]></content>
   </entry>
