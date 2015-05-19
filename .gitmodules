@@ -1,0 +1,3 @@
+[submodule ".themes/dotmin"]
+	path = .themes/dotmin
+	url = https://github.com/dotkrnl/dotmin.git
