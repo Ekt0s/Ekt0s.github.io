@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog2.louis-gabriel.com//sitemap.xml 
+Sitemap: http://Ekt0s.github.io//sitemap.xml 
