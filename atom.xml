@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://Ekt0s.github.io//atom.xml" rel="self"/>
-  <link href="http://Ekt0s.github.io//"/>
-  <updated>2015-05-19T19:51:40+02:00</updated>
-  <id>http://Ekt0s.github.io//</id>
+  <link href="http://blog2.louis-gabriel.com//atom.xml" rel="self"/>
+  <link href="http://blog2.louis-gabriel.com//"/>
+  <updated>2015-05-19T20:31:25+02:00</updated>
+  <id>http://blog2.louis-gabriel.com//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,19 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Zombie vs Ninja vs Shark]]></title>
+    <link href="http://blog2.louis-gabriel.com//2015/05/19/zombie-vs-ninja-vs-shark/"/>
+    <updated>2015-05-19T20:31:08+02:00</updated>
+    <id>http://blog2.louis-gabriel.com//2015/05/19/zombie-vs-ninja-vs-shark</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Test Deploying Octopress to Github Pages]]></title>
-    <link href="http://Ekt0s.github.io//2015/03/23/test-deploying-octopress-to-github-pages/"/>
+    <link href="http://blog2.louis-gabriel.com//2015/03/23/test-deploying-octopress-to-github-pages/"/>
     <updated>2015-03-23T21:33:31+01:00</updated>
-    <id>http://Ekt0s.github.io//2015/03/23/test-deploying-octopress-to-github-pages</id>
+    <id>http://blog2.louis-gabriel.com//2015/03/23/test-deploying-octopress-to-github-pages</id>
     <content type="html"><![CDATA[<h2>Yahhooooooooo2</h2>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Blog With Octopress]]></title>
-    <link href="http://Ekt0s.github.io//2015/03/23/blog-with-octopress/"/>
+    <link href="http://blog2.louis-gabriel.com//2015/03/23/blog-with-octopress/"/>
     <updated>2015-03-23T21:03:58+01:00</updated>
-    <id>http://Ekt0s.github.io//2015/03/23/blog-with-octopress</id>
+    <id>http://blog2.louis-gabriel.com//2015/03/23/blog-with-octopress</id>
     <content type="html"><![CDATA[<p>Here is my page.</p>
 ]]></content>
   </entry>
